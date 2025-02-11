@@ -1,0 +1,961 @@
+layer,neuron,score,explanation
+0,562,0.938552059," sentence-ending punctuation, specifically periods."
+0,1698,0.91252322,"instances of the word ""down"" and occasionally related words with low activation values."
+0,127,0.906939122,"the word ""atmosphere"" and its related contexts."
+0,945,0.893769213," instances of the past and present forms of the verb ""to be"" (was, is)."
+0,1746,0.893158827," the word ""on"" and its variations, as well as words closely associated with it."
+0,1302,0.886087856, words related to distribution or dispersion.
+0,1239,0.885094449, the word 'India' and related names or activities.
+0,128,0.881747599,words ending with 'ery'.
+0,1824,0.881372055," occurrences of the word ""video"" and related context."
+0,1808,0.880946295,words related to teaching or instructors.
+0,1866,0.876819169, words related to anticipation or expecting.
+0,810,0.875428222, words related to the concept of adding or combining elements or parts.
+0,282,0.866628002, references to bones or bone-related conditions.
+0,1338,0.864667189,verbs related to possessing or retaining something.
+0,1873,0.864074791, capital letter 'D' and related variations.
+0,749,0.862401129,"instances of the word ""flexibility"" and related terms that indicate adaptability or choice."
+0,20,0.862197415,words related to the concept of a home or dwelling.
+0,1619,0.860513876,words with the suffix 'est'.
+0,130,0.856541845,words related to complexity or intricate situations.
+0,1222,0.851738741, the word 'extended' and its related contexts.
+1,758,0.979874633,"the word ""witnessed"" indicating someone observing an event or action."
+1,228,0.950522971,words related to rivalry or competition.
+1,395,0.947141545,words and phrases related to extramarital affairs.
+1,1163,0.946215251,words ending with 'less'.
+1,1411,0.943008868, words ending in 'ization'.
+1,1805,0.938147585, the three-letter ending 'ags'.
+1,1796,0.938003164," the word ""according"" or its variations."
+1,251,0.93604975,ampersands (&) and sometimes words connected or associated with them.
+1,242,0.93535963, the word 'now'.
+1,41,0.926516124,"instances of the word ""order"" and its variations."
+1,640,0.924239466,"words related to professions or experts in various fields, especially those ending in '-ologist'."
+1,484,0.92340238," occurrences of the word ""snap""."
+1,1853,0.917250993, words related to invitations and being invited.
+1,1106,0.916553109,"words and phrases related to conflicts, disruptions, and clashes."
+1,641,0.906918499,words related to taking advantage of vulnerabilities or weaknesses.
+1,339,0.904496156,"the word ""mainstream""."
+1,1259,0.902267815," two-letter combinations, mostly focusing on ""dy""."
+1,445,0.90177946,"words related to hierarchical positions, specifically ""general."""
+1,999,0.899879154, words related to strength and its degree.
+1,572,0.897042207, words related to the concept of restoration or repair.
+2,360,0.961408441,"words related to foundations or bases, often in the context of actions or solutions."
+2,618,0.955257151, words related to isolation or being alone.
+2,629,0.942118786,"words or phrases related to the midpoint of a situation, process, or event."
+2,1110,0.936760713,"the word ""artificial""."
+2,405,0.934051225,words and phrases related to removal or elimination.
+2,690,0.918340591, words describing importance or prominence.
+2,189,0.908886224,"words containing ""aper""."
+2,1416,0.907908377,words ending with 'ight'.
+2,1738,0.906845924,words related to central or core elements.
+2,1372,0.905160923,"words related to confirmation, revelation, or indication."
+2,1768,0.902726013,the word 'totally' in sentences.
+2,172,0.899665072," words related to the term ""beast"" or containing the word ""beast""."
+2,1524,0.895642455, words related to capturing or grabbing something.
+2,1972,0.89178722,"mentions of the word ""modest."""
+2,570,0.891095135,instances of approaching actions or interactions.
+2,331,0.885849061,words and phrases related to ancestry and cultural heritage.
+2,1258,0.883829428, adjectives describing small size.
+2,889,0.880052959, words related to purpose or intention.
+2,1159,0.878752339, words ending in 'omp'.
+2,248,0.876997577, words related to removal and deletion processes.
+3,1287,0.939400793, words related to excellence and exceptional performance.
+3,634,0.90632848," words related to coverage, as well as types and instances of coverage."
+3,454,0.899293394,verbs related to improving or modifying something in a precise way.
+3,774,0.894765138," instances of the word ""use""."
+3,938,0.893806647, words related to pulling actions.
+3,217,0.893697396, contractions using 's'.
+3,1534,0.888562061, adverbs that describe a comparison or a degree.
+3,158,0.885108671, words related to logical reasoning and argumentation.
+3,1733,0.883464681,mentions of Detroit and medical terminology related to treatment.
+3,585,0.882921606,words related to emerging or coming into prominence.
+3,1176,0.881541992, words related to contrasting or opposing elements.
+3,1210,0.879360603," the word ""instance"" and similar words related to specific examples."
+3,1866,0.877289983, words related to adventure and action.
+3,100,0.87349667, words related to substitution or replacement.
+3,904,0.872586676,words and phrases related to utility and usefulness.
+3,1639,0.866995976,words related to cubes or cubical objects.
+3,17,0.866522518, words related to arriving or incoming.
+3,1378,0.854577739," words or phrases related to America, newness, and positive qualities."
+3,1623,0.853142097,words or word components with 'omb' in them.
+3,1659,0.850899398," mentions of different phases, often related to scientific or technical content."
+4,552,0.95160136,words related to surrounding or enclosing aspects.
+4,1514,0.942104997, words related to dramatic or intense situations.
+4,606,0.906674352,words related to debts and financial obligations.
+4,626,0.905773988, words related to changes in size or growth.
+4,313,0.896036213,words related to witchcraft and the occult.
+4,284,0.895495308," the word ""latter"" and related context."
+4,1670,0.89520534,words related to borders or boundaries.
+4,687,0.894406642,"words and phrases related to events, particularly Halloween."
+4,1700,0.894323588, words and phrases related to nervousness or hesitance.
+4,698,0.89051806," words and phrases related to inserting or connecting something, especially using the word 'plug'."
+4,983,0.878502168," words related to cutting, chopping, and slicing."
+4,1104,0.872698047,instances of the word 'miss' and its variations.
+4,1247,0.872396837, expressions of negative or unfortunate circumstances.
+4,1160,0.871392376,"occurrences of the word ""existence."""
+4,1460,0.871247467,words related to knitting and crocheting.
+4,442,0.870432237,words related to actions that are repeated or recurring.
+4,732,0.867721163,words and phrases related to wrapping or coiling objects.
+4,910,0.864096284, different forms of the word 'vert'.
+4,954,0.857861434,instances of the letter sequence 'iff'.
+4,589,0.857655043, the word 'within' in different contexts.
+5,1159,0.929153911, words related to entering or access points.
+5,1038,0.917749479,reflexive pronouns referring to oneself.
+5,337,0.914505871,words related to military veterans.
+5,618,0.911901826," the word ""thus"" and its variations."
+5,752,0.907342663,words related to focus and concentration.
+5,619,0.899806501,"words related to surveying, polling, and measuring opinions."
+5,286,0.879836353, words related to seeking advice and coordination.
+5,1758,0.879314881," occurrences of the word ""spell"" and its variations."
+5,686,0.876919474,"instances of the word ""apprentice"" and variations or related words."
+5,385,0.867541685,"occurrences of the word ""luck"" and related phrases."
+5,168,0.863226191," image attributions, specifically those related to Getty Images."
+5,944,0.859438959," instances of IM as an acronym, possibly referring to 'Instant Messenger'."
+5,1161,0.858172349,mentions of corners or edges.
+5,1179,0.846034289,"variations of the word ""bridge""."
+5,1807,0.843639479," words related to weight or pressure, with a focus on the term ""load."""
+5,1276,0.839045191,"occurrences of the word ""news"" and its variations."
+5,386,0.838522148,"food items, particularly tacos and bowls."
+5,421,0.836342772, words related to the concept of success or failure.
+5,572,0.835562649, words and phrases related to destruction or damage.
+5,762,0.82961293,mentions of personal computers (PC).
+6,1382,0.937502485,"occurrences of the word ""script""."
+6,759,0.918666287," words related to growth and development, focusing especially on ""boom."""
+6,483,0.899427958," words related to removal, expulsion, or displacement."
+6,1318,0.888876895," the possessive contraction "" 's ""."
+6,224,0.880951369,reflexive pronouns related to self.
+6,339,0.879408864,"words or phrases related to the word ""head"" or its variations."
+6,923,0.873695914, words related to transparency or clarity.
+6,1240,0.87253475, variations of the verb 'appear'.
+6,301,0.868727551," the word ""It"" at the beginning of a sentence."
+6,528,0.866313061," the word ""embedded"" and related terms."
+6,950,0.863039487," instances of the word ""absolutely"" and adjectives associated with arts or modernity."
+6,1660,0.863020321," instances of rolls, both in the context of game mechanics and general usage."
+6,1641,0.862498509,words and phrases related to water and drowning.
+6,346,0.861201276,"words referencing geographic directions, especially ""Western."""
+6,1855,0.858146013,"the word ""wild"" and its variations."
+6,1507,0.856575564, words and phrases related to preferences or choices.
+6,1586,0.852284752," measurements related to volume, specifically the word 'cup'."
+6,658,0.843239446, the word 'host' and words that relate to hosting.
+6,1991,0.842901596," last names, particularly ""Davis."""
+6,1489,0.83336948,words related to holding or gripping actions.
+7,415,0.912764037,words related to being impressed or surprised.
+7,47,0.905213736,verbs related to suspension or hanging.
+7,828,0.899163011," words related to the central parts of an area, structure, or organization."
+7,1406,0.892023634,"the word ""explicit"" and its variations in phrases."
+7,1464,0.866756808,words related to discrimination and bias.
+7,1113,0.864782611, words related to seriousness and importance.
+7,1571,0.853001946,"words related to tools or weapons, specifically sharp-edged ones."
+7,361,0.848167415,variations of the word 'order'.
+7,563,0.835622168,transition words and phrases that introduce additional or clarifying information.
+7,5,0.828660695,"variations of the word ""including""."
+7,535,0.817789887, words related to pairs or couple-related terms.
+7,478,0.815400288,"words related to being the best, top or the first appearance."
+7,1552,0.814315061, words related to following or coming after something.
+7,858,0.809533598," words and phrases related to financial life changes, particularly retirement and bankruptcy."
+7,1163,0.806321465, words or phrases related to moving ahead or progressing in time.
+7,660,0.79620454, words related to cutting or editing actions.
+7,1318,0.794079995,words related to types of housing and residential areas.
+7,538,0.793050021,words related to fire and heat.
+7,20,0.792976598,words or parts of words related to the letters 'ark' and 'anger'.
+7,1476,0.788794901,words related to newness or a renewed state.
+8,123,0.939552061,United States state abbreviations.
+8,389,0.883061367,medical professionals and treatments.
+8,1193,0.879137752," instances of the word ""together""."
+8,1078,0.874464841, words related to peace and resolution in conflict situations.
+8,1656,0.86233967, words related to being underwater or below the surface.
+8,136,0.858054782,words related to interior spaces and their characteristics.
+8,1164,0.849909125, the word 'bid' and related context.
+8,545,0.8481642, occurrences of the number '2'.
+8,1593,0.840011884, words and phrases related to broad or wide scope or variety.
+8,1605,0.817102353,words related to transportation or container objects.
+8,982,0.815960137, words related to scheduling and canceling events.
+8,1293,0.812214809,words related to actions requiring permission or consent.
+8,448,0.809855064, words or phrases related to completing an action.
+8,1232,0.795429824," phrases related to instances, occurrences, or situations described as ""the case."""
+8,1285,0.79527423,words related to delay or postponement.
+8,609,0.794306724,"the word ""neither"" and its varying capitalizations."
+8,1732,0.791726002, acronyms and abbreviations related to sports organizations and competitions.
+8,1959,0.783643463, words and phrases related to importance and power.
+8,323,0.783062949," words and phrases related to unity, support, and cooperation."
+8,1196,0.782387999, the word 'dial' and its variations.
+9,147,0.931230471," the word ""most"" and words related to comparison."
+9,914,0.87093021, words related to the action of seeing or observing.
+9,43,0.837615914,"words and phrases related to evidence, proof, and background contexts."
+9,1738,0.830096335, words related to taking something away or stealing.
+9,1546,0.826123289," words and phrases related to being alive, existing, or thriving."
+9,1762,0.797367383," single letters or partial words with a focus on 'y', 'z', 'k', and 'ter'."
+9,1236,0.788875569, words related to women and female titles.
+9,117,0.788455481,"instances of the word ""idea"" and related phrases emphasizing its positive or negative context."
+9,135,0.784096089, editing commands and low-intensity actions.
+9,856,0.773939052,"partial words ending in ""ave"" or ""ove""."
+9,1515,0.762640484, words related to representation and involvement.
+9,1821,0.75946685,terms related to paths and a planet (Mars) in different contexts.
+9,1399,0.747367394,"the word ""importantly"" and its degree of emphasis in a sentence."
+9,1125,0.747356202,"the word ""according"" and occasionally related statistics or numbers."
+9,1532,0.746987775,words containing 'ick' or 'ock' sounds.
+9,1966,0.736078181, words related to sensory experiences and anticipations.
+9,1439,0.731177611, the word 'however' and related punctuation.
+9,1864,0.726363217,"citation-related words and instances of the word ""name."""
+9,512,0.720096956,"words and phrases related to work, labor, and processes."
+9,169,0.719495992,relative cardinal directions and distances.
+10,226,0.912285869,"words and phrases related to continuation, particularly in the context of 'reading.'"
+10,1308,0.911665236," instances of the word ""much"" in various contexts."
+10,1441,0.880983405,words related to knights or references to knight characters.
+10,567,0.877287182,words related to effectiveness or efficiency.
+10,758,0.845596922, words and phrases related to language and translation.
+10,223,0.822296706,"instances of the word ""verified"" and its variations."
+10,1473,0.811957817, instances of the word 'guess'.
+10,140,0.798648995,adverbs that indicate a contrast or unexpected connection.
+10,346,0.78389614," contractions with ""n't""."
+10,1670,0.77931008,words related to losing control or abnormal mental states.
+10,1649,0.753592803, expressions of certainty and agreement.
+10,730,0.747131442," instances of the word ""code"" and related phrases containing it."
+10,597,0.738541945, words and phrases related to opposition or contradiction.
+10,1467,0.735113192, words and phrases related to prayer and praying.
+10,94,0.73276557, words related to outcomes or consequences.
+10,542,0.731115343, words and abbreviations related to political and ethnic groups.
+10,602,0.723441641, words related to wide-ranging concepts or large-scale phenomena.
+10,441,0.717903058,"words and phrases associated with locations, specifically ending in 'ide'."
+10,1202,0.716419718, words related to website functions and affiliate programs.
+10,958,0.716246373, words related to organization and ordering.
+11,899,0.850241558,"instances of the word ""option"" or variations of it, relating to choices or alternatives."
+11,914,0.831852761," words related to statues, figures, and physical objects."
+11,1230,0.827751065,verbs related to observing or discovering.
+11,1249,0.825926489," adjectives describing safety, security, or established standards."
+11,1923,0.824850493,words related to flat surfaces or areas.
+11,1072,0.813818158," casual agreement expressions, such as ""yeah"" and ""yes""."
+11,1347,0.798526429, words related to management and supervision.
+11,102,0.768316473,"occurrences of the phrase ""very"" with surrounding words."
+11,1787,0.759504962,words and phrases related to putting in effort or work.
+11,1270,0.755699485,words related to vertical directions or positions.
+11,1727,0.743422597," phrases containing the word ""said"" or ""that""."
+11,1302,0.739867945," occurrences of the word ""part"" and related phrases."
+11,348,0.722491423,words related to military branches and organizations.
+11,1880,0.713001156,verbs related to surpassing or exceeding something.
+11,788,0.711437632," acronyms, particularly related to organizations or agencies."
+11,1960,0.710816362, words ending in 'ing' and contractions with 'in'.
+11,1612,0.707733882,legal terms and references to court proceedings.
+11,364,0.704277671,honorifics and formal titles.
+11,1000,0.700403934,words related to purity and cleanliness.
+11,597,0.699068198, expressions of excitement and enthusiasm.
+12,1790,0.83436633, words related to reaching or targeting something.
+12,1386,0.814983701," words expressing appreciation, importance, or overlooking."
+12,1297,0.794007156," the word ""as"" and its usage in different comparative phrases."
+12,1989,0.791711566,honorific titles or salutations.
+12,1606,0.787588403,"prefixes or word fragments, and detects instances of the word ""Advertisement""."
+12,1124,0.769535542,"partial word fragments, particularly focusing on the letters 'ana' and 'mor'."
+12,1419,0.760022648, words related to reaching or achieving a state or condition.
+12,945,0.752863384," instances of ellipsis, typically representing a pause or an omission."
+12,171,0.747484358, occurrences of the letter 's' appearing alone or as a plural suffix.
+12,1706,0.739320889, ordinal numbers and related phrases indicating order or sequence.
+12,1239,0.738279133, phrases indicating uncertainty or things that have yet to be determined or revealed.
+12,655,0.70949931," fractions or percentages represented with a slash (/) or the word ""per."""
+12,731,0.709046078,references to written materials or sources of information.
+12,1604,0.704748603," words with a specific morphology or formation, particularly those ending in 'y'."
+12,1359,0.696668012, past tense verbs ending in 'ed'.
+12,585,0.686272727,words related to professions and occupations.
+12,1394,0.680321798, words related to extra or additional quantities.
+12,1490,0.663827117, words related to marking or saving information for later use.
+12,1760,0.662928286,words related to injuries or physical harm.
+12,708,0.660004977,instances of people not wanting to be identified or maintaining anonymity.
+13,1667,0.907472034," the word ""an"" in various contexts."
+13,1259,0.878779652, the word 'either' in the text.
+13,1623,0.781129723," occurrences of the word ""more"" and related phrases."
+13,360,0.773847293," words and phrases related to movement, traffic, or flow."
+13,384,0.741155906, phrases related to something being left or remaining.
+13,1032,0.739406865, phrases indicating time remaining.
+13,1800,0.737182995,verbs and phrases related to imitation and copying.
+13,766,0.720795318, instances where something or someone is the first of its kind or in a sequence.
+13,1190,0.719291891,words and phrases related to dreaming or thinking.
+13,1485,0.71695153, expressions of surprise or astonishment.
+13,418,0.70136781, occurrences of the word 'are' in various forms and contexts.
+13,499,0.70029141," conditional phrases, mainly focusing on the word ""if""."
+13,538,0.695370832,words related to waste and disposal.
+13,1525,0.689745773,words and phrases related to determination and hard work.
+13,343,0.679551159," words and phrases related to the beginning, start, or initiation of something."
+13,1930,0.679304491," significant events, situations, or moments."
+13,1569,0.677047203, words related to 'off' and 'up' positions or actions.
+13,1153,0.675931035,phrases involving the word 'hands'.
+13,1022,0.672644628," symbols, particularly the forward slash (/)."
+13,346,0.670660045," words expressing an unexpected or surprising situation, often with the word ""enough"" attached."
+14,918,0.896380875,words related to expectations and intended purposes.
+14,416,0.890008457,words related to feedback or comments.
+14,751,0.864001155, repeating characters or words.
+14,712,0.825931514, instances of third person masculine pronouns.
+14,55,0.799281052, female titles and words related to involvement or participation.
+14,1614,0.784299931, phrases or terms related to contrast and opposition.
+14,1368,0.781870234," instances of the word ""you"" and its possessive form ""your""."
+14,1107,0.778404276, words related to extreme values or measurements.
+14,1337,0.775886568, ellipses (series of dots) and words related to media or content.
+14,405,0.767331873,instances of the word 'House'.
+14,1847,0.767038295, closing parentheses and numerical values surrounded by parentheses.
+14,1261,0.736580326,words and phrases related to vision and visual equipment.
+14,735,0.72551749," words or phrases that represent last, ending, or prior things."
+14,142,0.724041091,"mentions of proximity, specifically the word ""near""."
+14,1277,0.721243278, words and phrases related to depth and going downward.
+14,1871,0.713502942, words related to elements and transformation.
+14,1134,0.695548766, occurrences of the word 'right' and phrases expressing the right amount or condition.
+14,1605,0.69409978,"activities and actions related to reading, research, and learning."
+14,105,0.689883603,phrases with 'as well as' and other coordinating connectors.
+14,1350,0.676023633," dates, numbers related to dates, and day names."
+15,1244,0.896834605," the word ""all"" and related phrases expressing inclusivity or wholeness."
+15,1706,0.882655334,words or phrases related to themes or themed items.
+15,555,0.775333844," words and phrases related to awards, titles, and achievements."
+15,1595,0.774467829," the ""@"" symbol and surrounding email or web address components."
+15,1107,0.769473366," phrases related to asking, requests, or demands."
+15,1355,0.768480721, phrases related to asking questions.
+15,1738,0.751769552, words and phrases related to release or freedom.
+15,1690,0.731611488,"the word 'even' and its surrounding context, often indicating comparisons or emphasis."
+15,962,0.726590843,"occurrences of the word ""more"" and related phrases."
+15,137,0.725274927, phrases related to entering or exiting a location.
+15,1276,0.69454696,"keywords and phrases related to regulations, warnings, and potential hazards."
+15,1882,0.680025926," relative pronouns, such as 'who' and 'whose', and words that indicate relationships or connections."
+15,538,0.672350858, possessive pronouns and their associated objects.
+15,549,0.66899251," instances of the word ""up"" and phrases related to things being elevated or raised."
+15,88,0.668562214, phrases related to deception or creating illusions.
+15,527,0.656540078," various signs and symbols, such as ""+"" and ""'"", possibly indicating mathematical or abbreviated elements."
+15,107,0.655039765, repetitive words or phrases in various contexts.
+15,1497,0.649223933, parts of media outlet names or popular website names.
+15,1121,0.649001794,words and phrases related to emotional stress and reactions.
+15,385,0.64584544," words related to outcomes, findings, and results."
+16,1154,0.901682921,terms associated with preference or favoritism.
+16,1874,0.823209345, words and phrases related to completion or finishing actions.
+16,353,0.786373033, phrases related to changing or exchanging.
+16,285,0.743184961,words and phrases related to people going missing or moving away.
+16,1822,0.707379292, words and phrases related to supervision and management.
+16,1160,0.706459989,passive voice verb constructions related to being in action.
+16,1005,0.705567, phrases related to effectiveness or ineffectiveness.
+16,590,0.703762159, phrases related to physical closeness and hands-on experiences.
+16,1455,0.696510704," phrases related to being ""outside"" or ""out of"" something."
+16,1865,0.689294694, phrases related to time periods and durations.
+16,1680,0.671270033, words and phrases related to reducing intensity or controlling behavior.
+16,1182,0.664618003," numerical values and occasional single letters, mostly focusing on numbers within a specific range."
+16,1652,0.656613976, words related to luck or probability.
+16,1150,0.653401074," terms and phrases related to legal procedures, investigations, and processes."
+16,198,0.648361907, verbs related to listing and adding items.
+16,45,0.647969479, the last parts of words that indicate plurals or certain verb conjugations.
+16,1348,0.642472425,references related to Brexit.
+16,351,0.639007463,sexual and explicit content in text.
+16,1325,0.637546191, words related to incorrectness or incompatibility.
+16,1691,0.636515312," words related to carrying or handling, especially in terms of weapons or objects."
+17,318,0.854994409,words and phrases related to sounds and audio.
+17,30,0.839804023,truth and reality-related words and phrases.
+17,289,0.837943692, instances where a fee or a cost is being applied or charged.
+17,335,0.833953488, body parts and words related to body modifications.
+17,1845,0.804744574,words related to size and magnitude.
+17,1598,0.778827417,"instances of the word ""hand"" and situations involving hands."
+17,1213,0.776488821, the word 'back' and related variants or phrases.
+17,44,0.759208681," the word ""through"" and occasional related words indicating motion or transition."
+17,919,0.750391311,verbs related to searching or discovering.
+17,1066,0.747303188,adverbs and modifiers indicating closeness or proximity.
+17,463,0.744608825," words that include the substring ""fix""."
+17,1923,0.739820409,words related to anticipation or expectation.
+17,1902,0.739219721,instances of the word 'well' along with nearby related words or phrases.
+17,478,0.737626045,words related to cleanliness and tidiness.
+17,130,0.710185678,vertical bars and other punctuation marks related to lists or categories.
+17,595,0.704817068, instances of the number '3' and its ordinal form '3rd'.
+17,1546,0.699709056," words related to insects, specifically flies."
+17,168,0.689876785,words related to spatial directions and positions.
+17,1451,0.689353594," country codes, particularly for the United States and the United Kingdom."
+17,216,0.686005404,words related to classifications and variety.
+18,1290,0.79571313," the preposition ""of"" in various contexts."
+18,1152,0.79538041,words expressing certainty or obviousness.
+18,122,0.794476332, words and phrases related to rooms and architectural features.
+18,1660,0.773613005, words related to the term 'palm' and other tree-related terminology.
+18,790,0.771766435," the word ""from"" and its related contexts."
+18,1309,0.763589285," comparative words, particularly related to difficulty or intensity."
+18,991,0.762696642, words related to fractions and percentages.
+18,1709,0.74604414, instances of 'as is' and similar expressions.
+18,1850,0.745802427, words related to relationships and partnerships.
+18,1870,0.721475238," instances of ""plus and minus"" numeric modifications, such as counters or bonuses."
+18,280,0.715733924,"words related to teaching, learning and imparting knowledge."
+18,521,0.704818255,words related to top and bottom positions or parts of objects.
+18,1879,0.699851734, references to Scotland and Scottish people.
+18,497,0.692609665," words or components of words related to summaries, brief information, or descriptions."
+18,963,0.685425683," words and phrases related to access, particularly online or early access."
+18,924,0.676047499, mentions of well-known companies or publication names.
+18,193,0.675349392," variations of the word ""cover"" and related words where 'cover' is a part of them."
+18,1764,0.660575777, words and phrases related to waiting and delays.
+18,944,0.660449938, parts of newspaper names and their abbreviations.
+18,1582,0.658285211, animal and insect-related terms.
+19,1133,0.825628809,"words related to writing, reading, and texts."
+19,1261,0.801721272,"the word ""on"" and its variations, possibly connected to prepositional phrases."
+19,83,0.794203334," words related to offering, providing, or giving something."
+19,64,0.765158998, words and phrases related to variation and diversity.
+19,780,0.762278157, instances of marital relationships and related terms.
+19,553,0.757713416,percentage symbols and related words.
+19,765,0.729626343, adjectives describing an optimal or best-case situation.
+19,797,0.713219155," the word ""something"" and related context."
+19,1979,0.709559166, words and phrases related to transportation and motion.
+19,938,0.708023387, words related to cultural aspects and their associated elements.
+19,1077,0.702821849,adverbs that end with 'ly'.
+19,1884,0.699695363,words and phrases related to requirements and conditions.
+19,1094,0.695054513, words and phrases related to LGBTQ+ topics and rights.
+19,1216,0.695050931," instances of the word ""loading"" followed by a series of periods."
+19,239,0.689817868,"occurrences of ""US"" and related abbreviations."
+19,884,0.687954176, words and phrases related to transactions and contracts.
+19,1786,0.681899463, words related to donations and funding.
+19,648,0.681157585, words related to projects and organizational structures.
+19,1730,0.679328543,words related to web development and technology.
+19,1494,0.677036333,words related to animals and their care or interaction with humans.
+20,1720,0.905103195, the word 'one' and related prepositions or adjectives.
+20,477,0.899358159," occurrences of the word ""must"" and related words indicating necessity."
+20,611,0.898509824, words relating to open or closed states.
+20,1231,0.835924328, words related to persistence or continuance over time.
+20,1499,0.82201578, words and phrases related to work and labor.
+20,1678,0.795030178,"the phrase ""in turn"" and related word combinations."
+20,421,0.776687109, sentences with the word 'even' and surrounding uncertainty or doubt expressions.
+20,1017,0.773318076,adjectives with the suffix 'free'.
+20,285,0.721870881, verbs related to increasing or raising something.
+20,371,0.717312767,phrases related to protection and defense.
+20,558,0.713460099, words and phrases related to the inside and outside of objects or concepts.
+20,613,0.711240953, words related to referring or pointing out information.
+20,196,0.710502508, phrases with strong emphasis or capitalization.
+20,1274,0.706796293, words and phrases related to water bodies and presence of water.
+20,277,0.69028463, words related to requirements or dependencies.
+20,559,0.685253494," words related to stopping, preventing, or opposing something."
+20,979,0.683642546, words related to sharing information or experiences.
+20,831,0.672712677," words and phrases related to problem-solving, understanding, and explaining mysteries or complex concepts."
+20,1717,0.67071697," words related to barriers, blockage, or obstacles."
+20,916,0.667198708, words and phrases related to standing and position.
+21,1238,0.830747861,phrases involving the word 'only'.
+21,1719,0.825043104,emotional expressions and phrases related to passion or heart.
+21,2,0.817551012,the word 'an' in various contexts.
+21,1009,0.795432615," gerunds, or verbs ending in 'ing'."
+21,773,0.794246573, advertisement-related keywords and contextual phrases.
+21,1649,0.772023017,terms related to marijuana and cannabis products.
+21,628,0.765924934," words and phrases related to antiques, vintage items, and anachronisms."
+21,1401,0.761317105," the word ""with"" and sometimes related prepositions or contractions."
+21,1805,0.754750425,words and phrases related to the United Kingdom or British entities.
+21,629,0.74425161, words and phrases related to proximity and closeness.
+21,642,0.734478274," words or phrases involving motion or direction, especially with the word ""head"" included."
+21,1289,0.732021881," words related to reading, books, and publications."
+21,1332,0.731922051, words and phrases related to additional or extra items.
+21,1903,0.719731716,hyphen (-) and em dash (—) punctuations within the text.
+21,1801,0.70494736, words and phrases related to reading and learning.
+21,1400,0.703639649,"locations, especially related to Europe."
+21,1373,0.697153227,words and phrases related to comparison or competition.
+21,1107,0.68514626, words and phrases related to gender and demographics.
+21,1287,0.683810073,phrases related to having something already or a sense of existing possession.
+21,1180,0.681596326,phrases and words related to men.
+22,1629,0.890841194, verb phrases involving the word 'set'.
+22,706,0.836676067, technology-related terms and platforms.
+22,1969,0.826691104, words related to conflict or struggle.
+22,1276,0.806937189,mentions of Donald Trump and related words.
+22,282,0.80417737, words related to body parts.
+22,1735,0.797238791,mentions of the city 'Houston' and related proper nouns.
+22,1937,0.792148071,color-related words in text.
+22,1465,0.790163385, words related to wrapping or enclosing something.
+22,1505,0.785602843, phrases related to holding and applying pressure.
+22,271,0.77513175, phrases related to facing or acknowledging something.
+22,1450,0.76814264, instances of the word 'would' and related contractions.
+22,1945,0.758886685," punctuation marks, specifically semicolons."
+22,1997,0.74911104," occurrences of the letter 'B' or 'b', often followed by a number or letter."
+22,838,0.738722917, words related to cutting and slicing.
+22,174,0.728018817, words and phrases associated with writing and authors.
+22,1881,0.726285406," gerund verb forms (""-ing"" words)."
+22,1767,0.723162954," occurrences of the word ""that""."
+22,199,0.71111048, words related to monitoring and observing.
+22,1928,0.709016285," days of the week, along with additional information that relates to these days."
+22,1077,0.707803738,the word 'with' and words directly connected to it.
+23,1427,0.866265211,the word 'natural' and related phrases.
+23,1265,0.821270282,actions related to climbing or ascending.
+23,495,0.803428597,"the word ""under"" and related phrases with ""under"" in them."
+23,859,0.799068992," instances of the verb ""been"" and related forms."
+23,266,0.768418057,"words related to types of beverages, particularly beer."
+23,1578,0.757698606,"words and phrases related to body size and health, particularly focused on terms associated with being overweight."
+23,77,0.750912594, masculine pronouns.
+23,1757,0.748816578,references to Israel and related entities.
+23,459,0.74780614,the word 'sick' and its related contexts.
+23,812,0.736527488,words and phrases related to exclusivity or making exceptions.
+23,1824,0.731311074,"words related to bars, beverages, and mixing."
+23,863,0.725890186,"words and phrases related to searching, chasing, or pursuing something."
+23,921,0.722558782,words related to various forms of energy and fuels.
+23,4,0.688958977,words related to shopping and commercial activities.
+23,1678,0.682433934,words or phrases related to arrivals or beginnings.
+23,359,0.682384086,words and phrases related to upward movement or increase.
+23,1556,0.679038966," the word ""we"" and its connected pronouns or phrases indicating unity or inclusivity."
+23,1015,0.673525893, references to vehicle manufacturers and related terms.
+23,1929,0.672638996,words related to awards and achievements.
+23,140,0.656993573, words and phrases related to discovery and finding.
+24,1456,0.871893433, days of the week.
+24,1287,0.811600165, words related to connections or associations.
+24,23,0.793027039," instances of communication or contact, particularly with phone calls."
+24,1941,0.781445783,"occurrences of the word ""up"" and some related forms."
+24,223,0.763655569,phrases related to falling or downward motion.
+24,55,0.735321032," words related to ""leaving"" or departure."
+24,1618,0.734996292," words related to pieces or segments, with a focus on 'file' and similar forms."
+24,130,0.715223531, phrases containing 'there' followed by a verb or an auxiliary verb.
+24,971,0.713305062," occurrences of the word ""can"" and its contractions."
+24,400,0.712754883," instances of the word ""when""."
+24,764,0.711041102," instances of work, worked, or working in various contexts."
+24,1947,0.704511663, words and phrases related to growth and development.
+24,86,0.701401253,terms related to aviation and flying.
+24,1521,0.698725423," words and phrases related to emotional reactions, particularly crying."
+24,510,0.694564328,instances of the word 'hard' and words related to effort or intensity.
+24,1197,0.69135127,"words or phrases with negation, focusing on the prefix ""non""."
+24,1226,0.682699553, words and phrases related to communication and discussing.
+24,311,0.673961879," words and phrases related to condition and degree, including 'naturally,' 'Well,' and 'generally.'"
+24,623,0.672513029,short and flat-related words or objects.
+24,1053,0.672375219, phrases and words related to the act of handling or managing a situation or challenges.
+25,1055,0.836613082,words related to connections or associations.
+25,1818,0.815480633," directional words, often related to movement or progression."
+25,1076,0.77193641,coordinating conjunctions 'as' and 'well' indicating degree or relations.
+25,1502,0.767359627, words and phrases related to goals or intentions.
+25,1040,0.760895904, numbers and numerical values.
+25,73,0.73807788, parts of Chinese names and words related to China.
+25,198,0.736480397," words and phrases related to French names, places, and organizations."
+25,1422,0.73634572, words related to central and surrounding parts or objects.
+25,1689,0.727082502," technology-related words, specifically those associated with phones and mobile devices."
+25,1553,0.724719885, abbreviations and acronyms related to media and news outlets.
+25,65,0.724347874,words related to firing weapons and shooting.
+25,423,0.724077684,"words related to games, gaming, and virtual reality experiences."
+25,329,0.720943152,"comparative values, especially related to high and low."
+25,1787,0.713920428," instances of the word ""call"" and its surrounding context."
+25,314,0.713902127,phrases related to resting and being still.
+25,448,0.712595859,"instances of the word ""major"" and related words."
+25,806,0.71137248," instances of the word ""back"" and its variations used in different contexts."
+25,405,0.697605292, instances of the word 'how' often paired with adverbs or degree words.
+25,1932,0.694378513,words and phrases related to providing evidence or support for a claim.
+25,992,0.691488456," instances of the word 'true' and its related forms, with a focus on truthfulness or accuracy."
+26,1630,0.853740833," words related to entering, entry, and initiation."
+26,516,0.839570769, words and phrases related to the concept of 'final' or 'last'.
+26,881,0.825217757, phrases related to events happening one time or in a single occurrence.
+26,154,0.811063282,"contact-related words, mostly referring to getting in touch with someone."
+26,1812,0.783280535," occurrences of the word ""those"" and related contextual words."
+26,633,0.773414352," words related to valuable items, such as gems and precious stones."
+26,920,0.738977885, phrases related to attempting or trying actions.
+26,605,0.738157175," denial-related words and phrases, especially in the context of disputes or conflicts."
+26,428,0.733351779," contrastive conjunctions, particularly ""but""."
+26,1402,0.731694144, words and phrases related to the act of discovering or finding something.
+26,1384,0.730995312,financial and banking related terms.
+26,944,0.730943868,the word 'even' and related or nearby connecting phrases.
+26,1463,0.723951794, words related to power and energy.
+26,1779,0.719589309, terms related to filling and the position 'bottom'.
+26,1944,0.716733449,occurrences of the word 'ever' and its surrounding context.
+26,815,0.707986551,references to heads and head-related positions or features in various contexts.
+26,1267,0.707434919,adjectives describing small and plastic items or materials.
+26,1044,0.705052817,words and phrases related to modern concepts and developments.
+26,1826,0.702542341, action verbs related to throwing or moving objects.
+26,866,0.701632199,cryptocurrency and finance-related terms.
+27,1946,0.857787034,"instances of the word ""getting"" and occasionally related concepts."
+27,1168,0.824926693, past tense uses of the verb 'to be'.
+27,1698,0.818389257,"the word ""fact"" and related expressions of certainty."
+27,1581,0.81356698,words related to involvement and participation.
+27,1923,0.807292632,the word 'ground' and phrases related to it.
+27,1397,0.784961922, words indicating proximity or nearness.
+27,1509,0.759697571,words or phrases related to uncleanliness or dirtiness.
+27,1585,0.718426845,"the preposition ""for"" and related context."
+27,488,0.71834127, instances of square brackets and related content.
+27,260,0.717246877,words associated with water and hydration.
+27,1076,0.712669924,"the preposition ""by"" followed by a noun or an accompanying aspect."
+27,647,0.711972035," references to channels, shows, and stations."
+27,43,0.706768455,"instances of the word ""once"" and its variations, often associated with events or situations that happened or will happen one time."
+27,490,0.70355852,actions related to setting or lighting something.
+27,498,0.698675998, words and phrases related to camps or gatherings.
+27,653,0.697677497, words related to buildings and educational institutions.
+27,215,0.690861477, phrases related to power or control.
+27,1175,0.687777072,"the word ""what"" and related phrases focusing on questioning or discovery."
+27,621,0.677775568,verbs related to discovering or identifying something.
+27,1082,0.657671084, words and phrases related to German language and culture.
+28,1864,0.845464387," the word ""most"" and occasionally other words displaying a degree of frequency or magnitude."
+28,295,0.844399502,verbs related to movement or running out of something.
+28,885,0.787360641, possessive pronouns related to people.
+28,1672,0.764510251, verbs related to falling or dropping.
+28,342,0.749732004, verb phrases related to making efforts or attempts.
+28,1391,0.734878525, phrases containing 'the' with preceding or following hyphens.
+28,496,0.699539479, verbs related to applying or using something.
+28,361,0.696250848,"words related to results, decisions, and their outcomes."
+28,252,0.694868329,words related to sand and round objects or concepts.
+28,697,0.693822818, instances of the word 'same' and phrases involving comparisons.
+28,516,0.690067307, phrases related to various levels of critical health conditions.
+28,1224,0.687699977," phrases related to positions, specifically prepositions indicating upward movement or placement."
+28,690,0.687079337,instances of the word 'passed' and its related prepositions or objects.
+28,876,0.686731489,descriptive phrases related to depth or immersion.
+28,1289,0.68533491," time expressions, particularly those involving hours and minutes."
+28,1112,0.677131597," instances of buying, selling, and possessing items."
+28,1631,0.641983478, parts of European words and names.
+28,1545,0.638313848,words and phrases associated with risks and threats.
+28,605,0.635023296, numerical values and their related time or century context.
+28,1703,0.626398098,"instances of the word ""spot"" and related forms."
+29,751,0.890643009," instances of the word ""only"" and the surrounding context."
+29,768,0.842966895, words and phrases related to receiving advantages or benefits.
+29,220,0.841248166, instances of contributing or having an influence on a situation or outcome.
+29,378,0.772905357, words and phrases related to intentions and purpose.
+29,180,0.7567343, the indefinite article 'a' and related phrases with 'a'.
+29,674,0.741996982, words related to choosing or selecting.
+29,1073,0.7247714,"instances of the verb ""going"" and related phrases."
+29,821,0.705787632, words and phrases related to being known or acknowledged.
+29,565,0.704307823,modal verbs related to ability or possibility.
+29,1620,0.674828833," words and phrases related to movement, specifically jumping or bouncing."
+29,709,0.671429873,phrases related to checking or verifying something.
+29,934,0.667624607," words related to foundations, bases, or main elements."
+29,1869,0.660422267," negations, focusing on the word ""no"" and expressions of non-occurrence."
+29,1883,0.656288881,"expressions related to attentiveness, monitoring or verifying."
+29,243,0.651333116, phrases related to class specializations in gaming contexts.
+29,622,0.65026484,words and phrases indicating support or assistance.
+29,1760,0.649001827,words related to rodents.
+29,1940,0.640506539,word combinations indicating ability or capability.
+29,328,0.63675807, adjectives related to large quantities or time periods.
+29,1613,0.634936469," mathematical calculations involving numbers, symbols, and formulas."
+30,1779,0.813681491, verbs related to making an effort or attempt.
+30,1480,0.786588391, phrases related to focusing and paying attention.
+30,1421,0.76508529, phrases related to dependency or reliance on certain factors or conditions.
+30,877,0.76477224,"different variations of the word ""play"" in various contexts."
+30,1029,0.763128095,verbs related to releasing or setting free.
+30,1990,0.720945766,"comparisons, especially involving the word ""far"" and quantities."
+30,572,0.704371281, words and phrases related to making choices and decisions.
+30,792,0.69087973,"superlative words, especially those having a ""most"" or ""more"" prefix."
+30,776,0.678161845," phrases containing the word ""such"" and other related modifiers."
+30,1216,0.669232298," the word ""key"" and related meaningful phrases around it."
+30,258,0.653312581," pronouns, particularly ""it"", along with their corresponding actions, states, or conditions."
+30,1139,0.650297048,words and phrases related to the act of revealing or displaying.
+30,705,0.644041691,"words and phrases indicative of position, height, or levels."
+30,28,0.636282231," specific times, such as hours and minutes."
+30,529,0.627906197, questions and short phrases preceding questions.
+30,1923,0.621459916,words and phrases indicating ease and simplicity.
+30,7,0.618832248, nouns related to educational institutions and their elements.
+30,851,0.612654032,words and phrases related to religion and belief systems.
+30,1224,0.612410083, words or phrases expressing uncertainty and probability.
+30,363,0.609788042,mentions of high-level courts and related terms.
+31,1196,0.838413103,"the word ""an"" or variations of it."
+31,850,0.756458961," the word ""even"" and related punctuation or conjunctions."
+31,554,0.747827337," occurrences of the word ""just"" and words closely related to it."
+31,1556,0.721518323,censored or partially censored swear words or offensive language.
+31,911,0.706550476, expressions of personal feelings or emotions.
+31,1609,0.703301328,"words and phrases related to the ""top"" or highest element of something."
+31,1458,0.686665076, actions related to turning or changing directions.
+31,296,0.682039018,words and phrases related to being well-known or popular.
+31,860,0.664318571, words and phrases related to expressing opinions or making arguments.
+31,526,0.659335652,verbs and phrases related to hearing or listening.
+31,1580,0.658926751, phrases related to focusing on specific aspects or topics.
+31,1409,0.65062269, words related to the action of drawing or pulling something.
+31,857,0.628623467,instances of someone or something joining or being part of a group.
+31,982,0.613218249," instances of uncertain or conditional phrases, often involving ""would"" and contractions with ""-'d""."
+31,255,0.611386975, hiring activities or situations related to hiring.
+31,124,0.610726939,"words related to breaking, ending, or separating."
+31,682,0.581128341,cleanliness-related words and phrases.
+31,1911,0.565117532, abbreviations with a period following the abbreviated letter(s).
+31,1997,0.55678646, activities or actions involving sensory experiences or physical substances.
+31,577,0.553468474, phrases related to expressing intention or desire.
+32,1766,0.731406321,"words related to motion or action, specifically with the root ""roll."""
+32,1699,0.712827984, instances of the word 'this' and the context around it.
+32,698,0.707297647,prepositions and phrases indicating a basis or dependence on something.
+32,126,0.693520862, casual expressions and interjections.
+32,745,0.683177289,"variations of the verb ""run"" along with context words that suggest the usage of ""run."""
+32,1027,0.669553721,mentions of solar energy and related sources of power.
+32,585,0.667472111,"words and phrases related to reducing, cutting, or diminishing."
+32,364,0.662734105,"the word ""going"" and its related phrases or context."
+32,1298,0.653397859,words related to drinks and consumption.
+32,844,0.624816997," phrases emphasizing visual observation, such as ""you can see"" or ""as you can see."""
+32,1497,0.624023173, instances of finding or discovering something.
+32,1033,0.621739873, references to nationalities or countries.
+32,1391,0.620855162,verbs related to understanding or realizing something.
+32,345,0.592794861,phrases related to group activities or collective experiences.
+32,849,0.588009079,verbs and phrases related to the process of creating or writing something.
+32,1423,0.582848034,phrases related to evidence and its emerging or supporting nature.
+32,1927,0.581149882, expressions of things that have never been experienced or encountered before.
+32,939,0.580789882, words and phrases related to starting or beginning actions.
+32,484,0.579086285," instances of the word ""it"" coupled with auxiliary verbs and adjective phrases."
+32,1361,0.578449125, phrases related to adding or increasing something.
+33,1353,0.716173157," phrases related to life, especially in the context of a person's life at stake or life-changing situations."
+33,586,0.671800447,verbs and phrases related to seeking or searching for something.
+33,487,0.66148805,verbs with 'come' in its different forms and tenses.
+33,1496,0.661066081, phrases and words related to violation of laws and rules.
+33,187,0.648327371," instances of the word ""off"" and closely related pronouns or phrases."
+33,952,0.647785908,prepositions and phrases indicating a hidden or concealed location.
+33,184,0.636549086,phrases related to a long duration or distance.
+33,1940,0.625721391," verbs related to directing, pointing, or indicating."
+33,1373,0.6152587,"phrases and words related to dividing, splitting or separating elements."
+33,643,0.610478151, words and phrases related to the concept of creation or making.
+33,1241,0.609602228, expressions of desire or intention.
+33,1754,0.608187417, words related to colors and materials.
+33,1331,0.567573802, phrases indicating being part of something or inclusion.
+33,435,0.559066503," adjectives describing levels of transparency, honesty or openness."
+33,1802,0.549357993, references to weekdays and times.
+33,398,0.542758653," dates, days of the week, and related numbers."
+33,577,0.537100462, numerical values related to sports statistics.
+33,1978,0.529026999," words that are either known, partially known, or descriptive of known elements, leaning more towards the meaning of 'known'."
+33,240,0.527498603, words and phrases related to focusing or paying attention.
+33,552,0.52699937, creative activity roles and their associated actions.
+34,133,0.762870315,"the word ""even"" and sentences where it's present."
+34,1422,0.696575233, words and phrases related to connections and relationships.
+34,842,0.680708651, occurrences of the word 'going' and variations of 'to be' with 'going'.
+34,1345,0.664143839,directional phrases related to going down.
+34,1740,0.643952661," instances of the word ""how"" in various contexts."
+34,310,0.638240132, words and phrases related to motivation or incentives.
+34,1708,0.630498525,words related to targeting or directing an action.
+34,1019,0.628863647,"words related to exploration, discovery, and searching."
+34,1607,0.590410184,"sequences of alphanumeric characters, typically found in URLs or identifiers."
+34,1614,0.565024436,"prepositions and adjectives related to amounts, levels, or degrees."
+34,1901,0.539104528, contractions and words indicating progress or change.
+34,665,0.532996056,words related to quantities or degrees.
+34,1407,0.532494678, sequences of numbers or alphanumeric strings.
+34,1277,0.532097609, numerical values and related units of measurement.
+34,1465,0.530808243," occurrences of the word ""post"" and its surrounding context."
+34,1085,0.529048106, phrases related to animal sheltering or adoption.
+34,214,0.523141015," contrasting conjunctions, such as ""but"" and ""though""."
+34,697,0.51170328,"the word ""have"" and its accompanying context."
+34,1329,0.508831329," numbers, particularly dates and large monetary values."
+34,595,0.508682032, verbs describing actions involving handling or possession.
+35,1470,0.773713693, words and phrases related to gaining an advantage or benefit.
+35,578,0.734043709,"prepositions followed by a noun or pronoun, particularly focusing on the use of 'as' and its associated phrases."
+35,1414,0.648114311," direct speech and quotations, with a focus on the action of speaking."
+35,529,0.604786471, comparative and superlative adjectives or adverbs.
+35,1676,0.596299506,expressions of affirmation or agreement.
+35,1440,0.58620004,"actions or states involving sitting, resting, or being together in a group."
+35,354,0.561793685," instances of the word ""it"" and nearby context words."
+35,987,0.556828807,measurements and dimensions.
+35,1467,0.555346799,words and phrases related to safety and security.
+35,1417,0.536639355,words and phrases related to secrets and hidden information.
+35,1130,0.534264456, numbers and related financial terms.
+35,800,0.532679409, expressions of gratitude and uncertainty.
+35,922,0.528251741,scientific terms and phrases related to demonstrating or showing evidence.
+35,168,0.516822086, words related to the concept of 'natural' and its variations.
+35,1708,0.510217498," numerical values or strings of numbers, especially those related to percentages and statistics."
+35,870,0.507026191," instances of specific times, ranging from hours to minutes."
+35,1537,0.506038705,"plural pronoun ""they"" and its variations (e.g., They, They've, they're)."
+35,288,0.502838163, sports-related numbers and scores.
+35,669,0.50105929, instances of someone going somewhere or performing an action.
+35,695,0.499141777,phrases indicating conditional situations or variables.
+36,475,0.764089568," instances of the preposition ""at"" and related phrases describing positions or locations."
+36,818,0.739806998, instances of the preposition 'to'.
+36,1111,0.677615948,"words and phrases related to distancing, separating, or positioning oneself."
+36,985,0.641736561,phrases related to playing an important or significant role.
+36,792,0.618872349, words related to checking or inspecting something.
+36,1766,0.584503968, descriptions of what people are wearing.
+36,1806,0.579541899," occurrences of the word ""one"" and its surrounding context."
+36,997,0.577114046," punctuation, primarily the end of sentences indicated by periods or quotation marks."
+36,1399,0.567479485,"words and phrases related to awards, recognition, and funding."
+36,956,0.565854133, adverbs of time and immediacy.
+36,961,0.564128784, numeric values with monetary or financial contexts.
+36,1796,0.559367937, past and present tense verbs related to assumption and estimation.
+36,398,0.559109986, verbs related to making choices or decisions.
+36,794,0.547082206," numerical values, especially related to finances, prices, and percentages."
+36,652,0.53047011,phrases related to things being composed or made up of other things.
+36,464,0.528921705, numeric values and related words in a text.
+36,1928,0.516994212, words and phrases related to quantity and presence.
+36,1200,0.514422398, phrases indicating future actions or events.
+36,718,0.51368987," occurrences of the indefinite article ""a"" and pronouns, particularly ""we"" and ""you""."
+36,527,0.510184146,"possessive references, particularly with the word ""your""."
+37,1201,0.686482461, the word 'an' and similar word beginnings with 'a' and 'an'.
+37,826,0.662500636,words indicating a close examination or focus.
+37,849,0.580892945, numbers and related quantitative expressions.
+37,1722,0.577548747, occurrences of pronouns related to the subject.
+37,443,0.567387171,verb phrases related to efforts or attempts.
+37,1519,0.564803098," instances of the words ""can"" and ""be"" being used together."
+37,904,0.563916416, possessive pronouns related to ownership or belonging.
+37,811,0.559330608,"numbers and digits within the text, often related to statistics or quantities."
+37,1588,0.553889554, contractions with auxiliary verbs.
+37,149,0.552497939,comparative phrases using the word 'like' or 'same'.
+37,515,0.536276145," instances where a person is speaking, mainly through the word ""said"" and related context."
+37,1361,0.532777279," words related to specific titles, brands, or unique terms."
+37,1765,0.521147811," numerical values, especially those related to money."
+37,522,0.520634075,words related to attributes and actions of selling or offering items.
+37,1835,0.505191373, numbers and their related units or contexts.
+37,1293,0.505117411,"sequences of numbers, often related to dates, scores, or technical information."
+37,1332,0.502869775,numerical values and words often found around numbers.
+37,1852,0.497925763, words and phrases related to payment and pricing.
+37,1196,0.493751976,instances of noticing or finding something.
+37,696,0.487358128," phrases related to the concept of ""nothing"" or absence."
+38,748,0.740449125," coordinating conjunctions, such as ""but"", and related connecting words."
+38,1392,0.651868398,"punctuation marks, especially commas and quotation marks."
+38,812,0.633024887," mentions of third person pronouns (he, she)."
+38,1950,0.593962248,descriptions of clothing and appearance.
+38,1265,0.579224161, numerical values and percentages.
+38,719,0.57029423," words related to usage, force, or involvement in an action."
+38,306,0.553655636,names and titles related to universities and institutions.
+38,1609,0.550452813," alphanumeric combinations, often found in URLs and unique identifiers."
+38,834,0.539997023," instances of the indefinite article ""an"" and its surrounding context."
+38,492,0.528948909, instances of someone saying (responding or making a statement) in a conversation.
+38,880,0.524465663, personal pronouns and related contractions in various contexts.
+38,1774,0.518464236,"instances of the verb ""look"" and related phrases."
+38,222,0.511593579, phrases related to asking questions.
+38,677,0.507920124, numerical values and their associated units.
+38,1680,0.507556999," contractions with auxiliary verbs such as 've, 're, 's, 'm, and negations like 't."
+38,28,0.506603247," numerical values and related words, especially those associated with measurements and rankings."
+38,155,0.501455553, numbers and related numerical values.
+38,141,0.485646792," prepositions, especially 'of' and its variations in context."
+38,277,0.485430935,"possibility and hypothetical situations, focusing on words like ""might,"" ""could,"" ""would,"" and ""if."""
+38,521,0.478090823, words and phrases related to speaking or communication.
+39,258,0.88812512, the word 'an'.
+39,1751,0.690296981,expressions of interest and involvement.
+39,1833,0.679202553," instances of bringing, moving, or taking objects or people."
+39,1498,0.615682879, numerical values related to performance statistics.
+39,524,0.59103199," instances of the word ""to"" and related phrases indicating a degree or a change in state."
+39,1465,0.574524117," numerical values, especially values related to financial or quantitative data."
+39,764,0.574234724, possessive phrases related to comparisons or classifications.
+39,288,0.533759167, words and phrases related to living or staying in a location.
+39,1019,0.520191558," academic and professional titles, and words related to academic achievements."
+39,932,0.506774592, words and phrases related to temperature.
+39,990,0.505513394, media sources and platforms.
+39,1651,0.493844259," pronouns and contractions related to pronouns, such as ""it"", ""me"", ""they"", and ""'s""."
+39,366,0.485030739,"specific items or elements, often in lists, and including product ingredients or names."
+39,109,0.477415602," single letters or numbers, often in parenthesized contexts."
+39,357,0.471356334, phrases and words related to feelings and emotions.
+39,1399,0.464712553," patterns relating to time and duration, including hours, days, and weeks."
+39,1947,0.463699146,"verbs indicating refusal, denial, or rejection."
+39,12,0.458778205, phrases related to hard work and dedication.
+39,732,0.456304769, expressions of gratitude and politeness.
+39,984,0.444827388,technical terms related to computer hardware and storage devices.
+40,402,0.714941662," words and phrases related to variations, differences, and change."
+40,1849,0.62663314,"the pronoun ""I"" followed by expressions of personal experiences or opinions."
+40,1310,0.556724487, punctuation marks and sentence endings.
+40,1837,0.546918276," occurrences of the pronoun ""it"" and adjacent words in a dialogue or context."
+40,1412,0.520554773,concepts and vocabulary related to incarceration and serving time.
+40,171,0.51808318, references to teams and their interactions in sports.
+40,892,0.518038857,"sensory descriptions, particularly related to smells and sounds."
+40,885,0.49411361, phrases related to availability and transaction.
+40,871,0.490664313," occurrences of the word ""view"" and mentions of ""Bachelor"" with a number."
+40,9,0.490481342, phrases related to reaching conclusions or making connections.
+40,449,0.473475757, code components and programming syntax.
+40,1640,0.459700929, numbers and numerical values within a text.
+40,441,0.455395603,descriptions related to physical appearance and characteristics.
+40,403,0.454592806," numerical values, especially those related to money amounts."
+40,1378,0.450699094, sequences of numbers.
+40,933,0.450237272, numbers and units related to measurements and quantities.
+40,1159,0.445960815, instances of punctuation and surrounding sentence structure.
+40,1403,0.439452995," relationships, comparisons, and connections between words and ideas."
+40,558,0.434387773, numerals and numbers related to age.
+40,631,0.429640307, words and phrases related to natural events and disasters.
+41,297,0.869450942," punctuation marks, especially periods, that indicate the end of a sentence or statement."
+41,1636,0.812642818," occurrences of the indefinite article ""a""."
+41,590,0.588800713," modal verbs expressing possibility, ability, or likelihood."
+41,844,0.579026314, numerical values and words related to positions or locations.
+41,1015,0.512375933, words and phrases related to motion or movement.
+41,449,0.508561922,verbs related to displaying or indicating a quality or ability.
+41,1739,0.508327736, instances of numbers and measurements.
+41,1160,0.506095506, numerical data points or values.
+41,230,0.504845985, numerical percentages.
+41,1583,0.500034399," numbers, particularly version numbers and specifications."
+41,419,0.49826995, technical and procedural instructions or steps.
+41,1743,0.495457075," numbers and their related contexts, including durations, dates, and measurements."
+41,934,0.494334569, personal pronouns followed by 's and seemingly focusing on subjects performing actions.
+41,956,0.487978682, words related to accidents and disasters.
+41,1641,0.477202895,"instances of people talking or explaining something in the first person perspective, particularly using 'we'."
+41,546,0.476003223, verbs related to communication and expressing thoughts or feelings.
+41,15,0.465956188, numbers and units of measurement.
+41,361,0.460777227, phrases related to uncertainty or potential obstacles.
+41,1685,0.459079136,numbers related to distances and speeds in athletic and speed competitions.
+41,491,0.455072034," verbs related to planning, processing, and action."
+42,785,0.713623887,the word 'not' and its surrounding context.
+42,151,0.694991124,"time-related words, particularly focusing on the term 'earlier'."
+42,1171,0.627974927, combinations of numbers and measurements.
+42,350,0.627742221," instances of the word ""by"" followed by names or adjectives."
+42,1886,0.605023882," instances of voting, decision-making, and approvals."
+42,1525,0.551490133, numbers followed by commas or percentage signs.
+42,676,0.537832074, abbreviations and initials.
+42,978,0.534788118, numerical values and measurements.
+42,136,0.511321888,words and numbers related to musical instrument features and specifications.
+42,1620,0.510076884,"words and phrases related to agreement, disagreement, or affirmations."
+42,453,0.510063692," instances of the pronoun ""it"" and other pronouns in the context of nearby words."
+42,1289,0.506615615, periods followed by a quotation mark or a number.
+42,192,0.505016876," expressions related to support, encouragement, and positive interaction."
+42,1842,0.494384306, expressions of gratitude and appreciation.
+42,1589,0.489702236,"punctuation marks used in sentence and list structures, such as commas, periods, and parentheses."
+42,279,0.486772898, numerical data and related terms.
+42,1138,0.486273345, end-of-sentence punctuation marks and words closely related to them.
+42,197,0.482655534," dialogue phrases and direct speech, particularly focused on quotes and the verb ""said."""
+42,1247,0.477414582, numbers and percentage symbols in the text.
+42,1787,0.475542007,"keywords related to wealth, money, and social class."
+43,191,0.784226998, articles 'an' and some associated compound words.
+43,1648,0.763704965," instances of dialogue attribution, focusing on phrases including 'said'."
+43,2,0.651463511, words related to the completion or ending of an action or event.
+43,1751,0.648579086, auxiliary verbs in various forms.
+43,1114,0.572677499," numbers, dates, and sequences of digits."
+43,498,0.551642853," instances of the word ""one"" and minor numeric references."
+43,39,0.542118626," words related to responding, commenting, and information sharing."
+43,1633,0.524592588, numerical values and related measurements.
+43,1329,0.521218866, words and phrases related to story elements and descriptions.
+43,1507,0.520017557, ages and age-related phrases.
+43,1453,0.489888713," sequences of numbers, often related to time, dates, and scores."
+43,679,0.485928358, phrases related to learning and education.
+43,1835,0.476939416, technical terms and units of measurement.
+43,640,0.469120606, phrases related to workplace benefits and employee welfare.
+43,134,0.46730097,award-related terms and phrases.
+43,1922,0.467238202, sequences of numbers and alphanumeric characters.
+43,1365,0.466066765," instances of the word 'has', along with associated actions or qualities."
+43,878,0.464362649, auxiliary/modal verbs in different forms.
+43,0,0.460383306, verbs related to potential actions or possibilities.
+43,1014,0.453378576," numerical values, particularly within sequences or series of numbers."
+44,31,0.597059634, pronoun-verb contractions and related pronouns.
+44,1017,0.559203099, numeric values and associated units.
+44,1013,0.558848582," pronouns, especially 'he'."
+44,806,0.528386995, abbreviations and acronyms.
+44,570,0.509299706,punctuation marks and quotation marks in the context of sentences.
+44,230,0.482395432," imperative verbs and expressions, particularly related to looking or paying attention."
+44,654,0.474219232," past tense verbs combined with ""ve"" (contraction of ""have"")."
+44,29,0.467285277," sentence endings, including punctuation and numeric values that indicate emphasis or timing."
+44,589,0.466802164,specific features and details of objects.
+44,42,0.454109132," punctuation and small connecting words, with a focus on commas and quotes."
+44,61,0.451762047, numbers and related symbols in sequences.
+44,847,0.445629571, food-related words and phrases.
+44,1584,0.437828531,"conditional phrases with ""whether"" and contrasting alternatives (or)."
+44,1124,0.437767324,"titles and positions related to government, institutions, and organizations."
+44,1199,0.422024898, expressions of gratitude and appreciation.
+44,1129,0.409563026," names of people, characters, or organizations."
+44,218,0.409282422, numbers or numeric measurements.
+44,1741,0.404811851, phrases related to instructions and requirements.
+44,1628,0.399991387,words indicating personal pronouns and contractions.
+44,456,0.398208407,words related to infrastructure or technical systems.
+45,758,0.838353656," sentences ending with a punctuation mark, primarily periods."
+45,215,0.783274375," punctuations, especially commas, and some conjunctions."
+45,1545,0.69132282, instances of advertisements and related spacing in the text.
+45,1043,0.626871044,comparative terms indicating quantity or magnitude.
+45,567,0.547731345," instances of people speaking, focusing on the presence of quotation marks and the verb 'said'."
+45,1401,0.533331757," abbreviations related to countries, specifically the United States."
+45,1952,0.493343516,sequences of connected numbers and series of similar patterns.
+45,811,0.491666951," instances of the word ""the"" and closely following words or phrases."
+45,630,0.479692877, numbers and numeric expressions.
+45,1477,0.472808065, punctuation and its immediate context within the sentences.
+45,558,0.465596065," names of organizations, institutions, or groups."
+45,1710,0.446084513," numbers, especially connected to dates and amounts."
+45,441,0.434394534," punctuation and newline spaces used to emphasize, separate, or informally indicate the end of a thought or action."
+45,497,0.416777656, occurrences of the letter 'a' and words using the letter 'a'.
+45,1462,0.41294839,"descriptions of material, texture, and design of clothing and footwear items."
+45,1749,0.410401672, words and numbers related to loading and delays.
+45,1539,0.408373418,"uppercase sequences of letters, typically within acronyms or emphasized text."
+45,1394,0.403060716,"names of cities, companies, and events related to the automotive industry."
+45,1159,0.399784556," academic, sports and organizational affiliations."
+45,1869,0.395120474," numerical values, often associated with measurements or pricing information."
+46,1167,0.704374505, the beginning of text or paragraph markers.
+46,925,0.669344282, editing-related words and formatted elements.
+46,1015,0.632201912, words and phrases indicating a contrast or transition in a statement.
+46,1334,0.628875634,occurrences of the word 'the' and related variations.
+46,438,0.574630854," ""an"" followed by a word or phrase, as well as detecting prepositions related to location or presence."
+46,859,0.544900594,specific nouns related to objects or substances.
+46,828,0.540159928," instances of the word ""has"" and words related to having or possessing."
+46,1473,0.532510593, words and phrases related to errors or issues.
+46,1468,0.520711203,names of places and addresses.
+46,1692,0.507226665, position names and abbreviations related to hierarchies or titles.
+46,1905,0.506865735," words and phrases related to materials, tools, and specific measurements."
+46,275,0.489724028,"non-English characters, particularly special and accented characters."
+46,1285,0.478508702, numerical values and related context.
+46,1815,0.469320766,mentions of mayors and their related titles.
+46,1857,0.462659499, numerical values and related technical details.
+46,1362,0.460042829, words and phrases related to viewing and watching activities.
+46,1714,0.450306499, sequences of capital letters and abbreviations.
+46,1232,0.445848113," instances of having or possessing something, often related to a problem or an item."
+46,432,0.438067763, personal pronouns and their connected verbs.
+46,1974,0.424389947,"action verbs related to preparing or handling food, and certain conjunctions."
+47,1289,0.813535735,"instances of the word ""very"" and its degree of emphasis."
+47,1960,0.664679331, verbs and phrases related to assistance and support.
+47,1480,0.630910356, articles like 'a' and 'the'.
+47,1929,0.630369579,Japanese characters and symbols.
+47,739,0.609190475, words and phrases related to transitional statements and prepositions.
+47,1598,0.565510234, negations with verbs ending in 'n'.
+47,284,0.547510572, the letter 'a' and words or phrases associated with groups of animals or items.
+47,195,0.526915905," abbreviations, particularly related to titles and countries."
+47,1296,0.517984281, phrases and words related to editing and customer service.
+47,620,0.516579565, non-English characters and special symbols.
+47,1938,0.495848014, references to CEOs and high-ranking executives.
+47,20,0.492280124,"sequences of numbers, URLs, and code-like text."
+47,656,0.478236409, parts of website code or text related to embedding and formatting.
+47,324,0.47027301, numbers and elements connected to quantities.
+47,409,0.443687764,uppercase letters and words in all capital letters.
+47,1299,0.443558473, occurrences of the word 'we' and phrases indicating action or involvement.
+47,1569,0.44160191," occurrences of time, specifically in relation to hours, minutes, and abbreviations like 'p.m.'."
+47,1993,0.438396086,initials and single-letter elements in names.
+47,27,0.435901784,"instances of the verb ""to be"" and its various forms."
+47,942,0.434233263," instances of expansion or continuation, focusing on numbers and context shifting."

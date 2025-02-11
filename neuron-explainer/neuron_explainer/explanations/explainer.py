@@ -66,7 +66,13 @@ class ContextSize(int, Enum):
         raise ValueError(f"{i} is not a valid ContextSize")
 
 
-HARMONY_V4_MODELS = ["gpt-3.5-turbo", "gpt-4"]
+HARMONY_V4_MODELS = ["gpt-3.5-turbo", "gpt-4", 
+                     "meta-llama/Llama-3.2-1B-Instruct", 
+                     "meta-llama/Llama-3.2-3B-Instruct", 
+                     "meta-llama/Llama-3.1-8B-Instruct", 
+                     "meta-llama/Llama-2-7b-chat-hf",
+                     "unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit"
+                    ]
 
 
 class NeuronExplainer(ABC):

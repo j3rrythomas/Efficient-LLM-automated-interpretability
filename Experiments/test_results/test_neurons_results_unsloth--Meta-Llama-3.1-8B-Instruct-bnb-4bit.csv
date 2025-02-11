@@ -1,0 +1,56 @@
+,layer,neuron,explainer,NeuronViewer,Original,Summary,Highlight,HighlightSummary,AVHS
+0,0,286,unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit, words related to comparison.,"
+
+instances of the word ""Compared"".","
+
+phrases expressing comparison or contrast between two things.","
+
+words containing the suffix ""-ed"" where a verb has been turned into a -ed verb form in its present perfect tense or passive voice form.","
+
+words that indicate similarities or contrasts between two things, often used to highlight differences or comparisons.","
+
+phrases that use ""Compar"" followed by a preposition (e.g., ""with,"" ""to""), or words related to comparisons (e.g., ""Comparatively"", ""Versus"")."
+1,10,1838,unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit, phrases describing positions or situations involving oneself.,"
+
+words related to people or dogs being in specific locations, often implying a connection to activities or events that occur in those places.","
+
+phrases where a noun (person or entity) is performing an action on itself, or is described as being in a specific state or location.","
+
+words or phrases where the subject finds or is in a particular situation.","
+
+first person singular pronouns.","
+
+first or third person singular pronouns when referring to people."
+2,20,193,unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit,verbs indicating questioning or challenging behavior.,"
+
+instances where others are actively calling out or denouncing certain behaviors (such as bigotry, intolerance, or racism) in others.","
+
+words associated with social critique or demands for accountability, particularly phrases related to speaking out or requesting explanations.","
+
+words related to confrontation or direct inquiry, such as calling someone out or asking questions.","
+
+verbs related to confrontation or calling out injustices.","
+
+verb phrases related to speaking out or expressing disapproval, particularly verbs like ""call out"", ""denounce"", and ""ask questions""."
+3,30,1685,unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit, expressions of gratitude and agreeing to receive something.,"
+
+subscription agreements or confirmation.","
+
+phrases indicating confirmation of subscription or agreement to receive updates.","
+
+phrases related to subscription or confirmation, particularly those containing words that express gratitude, such as ""thank"" and phrases suggesting agreement, like ""you agree"".","
+
+phrases related to user interaction, specifically the process of receiving emails, updates, and notifications.","
+
+words or phrases associated with opt-in or opt-out processes, sign-ups, subscriptions, and receiving updates."
+4,40,431,unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit," numbers related to time, dates, and measurements.","
+
+phrases or sentences related to time or date.","
+
+time or date in 24-hour format.","
+
+words and phrases related to time indicating hours and/or minutes.","
+
+time and clock-related tokens, including digits and time indicator ""[at]"" .","
+
+time or date specifications, such as combinations of numbers that indicate hours, minutes, seconds, or year/month/day formats, often accompanied by prepositions like 'at', 'on', or numerical designators like ':', '(,,)' and also some numbers."

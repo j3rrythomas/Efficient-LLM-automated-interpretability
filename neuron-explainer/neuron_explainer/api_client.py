@@ -10,6 +10,13 @@ from typing import Any, Callable, Optional
 import httpx
 import orjson
 
+# Jerry: Add HF model imports
+import torch
+from transformers import AutoTokenizer, AutoModelForCausalLM
+
+
+model = AutoModelForCausalLM.from_pretrained("unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit").to('cuda' if torch.cuda.is_available() else 'cpu')
+tokenizer = AutoTokenizer.from_pretrained("unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit")
 
 def is_api_error(err: Exception) -> bool:
     if isinstance(err, httpx.HTTPStatusError):
@@ -81,10 +88,10 @@ def exponential_backoff(
 
 
 API_KEY = os.getenv("OPENAI_API_KEY")
-assert API_KEY, "Please set the OPENAI_API_KEY environment variable"
+# assert API_KEY, "Please set the OPENAI_API_KEY environment variable"
 API_HTTP_HEADERS = {
     "Content-Type": "application/json",
-    "Authorization": "Bearer " + API_KEY,
+    "Authorization": "Bearer " + "",
 }
 BASE_API_URL = "https://api.openai.com/v1"
 
@@ -130,6 +137,8 @@ class ApiClient:
             # endpoint. Otherwise, it should be sent to the /completions endpoint.
             url = BASE_API_URL + ("/chat/completions" if "messages" in kwargs else "/completions")
             kwargs["model"] = self.model_name
+            if 'llama' in self.model_name.lower() or 'deepseek' in self.model_name: # Jerry: Override to run on non openai models
+                return custom_run(kwargs)
             response = await http_client.post(url, headers=API_HTTP_HEADERS, json=kwargs)
         # The response json has useful information but the exception doesn't include it, so print it
         # out then reraise.
@@ -141,6 +150,29 @@ class ApiClient:
         if self._cache is not None:
             self._cache[key] = response.json()
         return response.json()
+
+#Jerry
+def custom_run(args):
+    input_ids = tokenizer.apply_chat_template(args["messages"], return_tensors='pt', max_length=30).to('cuda' if torch.cuda.is_available() else 'cpu')
+
+    kwargs = {}
+    if "temperature" in args:
+        kwargs["temperature"] = args["temperature"]
+    if "top_p" in args:
+        kwargs["top_p"] = args["top_p"]
+
+
+    generate_ids = model.generate(input_ids, max_new_tokens=60, **kwargs)
+    decoded_op = tokenizer.batch_decode(generate_ids[:, len(input_ids[0])+3:], skip_special_tokens=True, clean_up_tokenization_spaces=False)
+    print(decoded_op)
+    return {
+        "choices": [{
+            "message": {"content": decoded_op[0]}
+        }],
+        "usage": {
+            "total_tokens": len(input_ids[0])
+        }
+    }
 
 
 if __name__ == "__main__":

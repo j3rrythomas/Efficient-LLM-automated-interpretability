@@ -1,0 +1,210 @@
+,puzzle_name,answer,Original,Summary,Highlight,HighlightSummary,AVHS
+0,colors,words related to colors and nothing else,"
+
+colors (or phrases involving colors).","
+
+colors or color-related descriptions.","
+
+words that are colors.","
+
+color words.","
+
+adjectives typically used to describe color."
+1,char2,"the name of the second named character introduced in the passage, excluding the narrator","
+
+common words or names in pairs, particularly where the pair exhibits a relationship such as siblinghood or romantic interest.","
+
+instances of single mentions of names.","
+
+words that refer to specific individuals or names of people.","
+
+words that are repeated at least twice, indicating emphasis or significance in the text.","
+
+words or names that match in both order and context, specifically across sentence boundaries."
+2,similes,phrases that are similes and nothing else,"
+
+comparisons involving 'like'.","
+
+comparative phrases in the form of ""X is like Y"".","
+
+comparisons between two things, often using a connecting word such as ""like"" or ""as"".","
+
+comparisons using the word 'like'.","
+
+phrases or words similar to or closely associated with ""like"", particularly phrases beginning with ""like"" and comparing or equating something to another thing, often suggesting a similarity or analogy."
+3,idioms,the substitution of a key word in a common idiom that isn't the usual choice for that idiom,"
+
+advice or guidance, often including specific advice from a specific person.","
+
+idiomatic expressions, particularly those that are similar or synonymous with each other in various contexts.","
+
+colloquial expressions or idiomatic phrases, often involving metaphors or figurative language.","
+
+idiomatic phrases, particularly those associated with conventional wisdom, life advice, or common sayings.","
+
+idiomatic expressions, particularly phrases that use literal objects (like salt, bush, etc.) to convey a figurative meaning."
+4,feet,"words describing motion that uses feet (e.g. ""running"", ""walking""), but not words describing motion that doesn’t use feet (e.g. ""flying"", ""hovering"")","
+
+verbs ending in '-ed' or present tense verbs that end with 'ing'. However the neuron generally finds past tense verbs of actions.","
+
+verbs ending in '-ed' that typically involve movement, direction, or action.","
+
+action verbs related to movement or activity.","
+
+verbs of movement or action.","
+
+verbs that describe actions performed primarily by moving one's body in a quick or fluid manner."
+5,years,historically inaccurate numerical years in the passage and nothing else,"
+
+dates in the format ""AD/ (year)"" or ""A.D. (year)"".","
+
+tokens in the format of two or four consecutive digits in a date (AD).","
+
+dates in the format ""A.D."" followed by two or three digits.","
+
+years and their last two digits (i.e., years where the last digit is '7' or '9').","
+
+numbers that can represent years in the format of A.D. followed by a two-digit number."
+6,math,incorrect answers in grade school math problems,"
+
+problems or riddles with numerical answers.","
+
+numerical answers to a specific mathematical question.","
+
+numbers that should be calculated or used in arithmetic operations.","
+
+whole numbers, specifically the quantities mentioned in the answers to the math problems.","
+
+numbers and mathematical quantities presented in a specific format (e.g., answer boxes or final results)."
+7,complexity,technical phrases related to computational complexity theory,"
+
+complexity or notations related to computational complexity theory, especially NP-hard or PSPACE.","
+
+terms related to computational complexity, computational space, and time complexity, particularly those related to Big O notation, NP-hardness, and polynomial time.","
+
+technical terms related to computer science, specifically those used in computational complexity theory, such as complexity measures (e.g. big O notation), problem classifications (e.g. NP-hard), and formal systems (e.g. Turing machine).","
+
+terms related to computational complexity theory, specifically those related to time or space complexity.","
+
+terminology related to computational complexity and computational theory."
+8,an,"positions in the sentence where the next word is likely to be ""an""","
+
+common phrases or expressions that are repeated.","
+
+conjunctions ('and', 'but', 'or', etc.) and phrases that imply actions happening in parallel or in relation to each other (often marked by words like 'at the same time' or 'simultaneously').","
+
+phrases that end with a verb (picked, And, as, etc.) often used to connect two related events or statements.","
+
+words or phrases that act as prepositions, often indicating relationships of space or time.","
+
+words that indicate a relationship of equivalence or accompaniment, such as 'as', 'and', 'for', which often connect phrases with similar meanings."
+9,time,"time phrases proceeded by the word ""in""","
+
+phrases indicating a passage of time that is relatively short.","
+
+measurements of time.","
+
+phrases indicating a certain duration or a milestone has passed.","
+
+phrases indicating duration or intervals.","
+
+words related to duration or elapsed time, particularly adverbs or phrases that indicate the length of time that has passed or the time expected to pass before something occurs. Examples include words related to short or long time periods, such as weeks, months, years, quite some time, or"
+10,stop,"language related to something being stopped, prevented, or halted, but only when negated","
+
+words related to cessation or stopping.","
+
+tokens that precede 'before' or the negation of their own action (i.e., 'stop' for things like 'cannot stop').","
+
+phrases indicating continued action or action despite a circumstance that could halt it, often involving a negation or contrast with a previous expectation.","
+
+words related to imperatives.","
+
+inflected forms of the verb ""stop""."
+11,of,"positions in the passage following the word ""of""","
+
+third-person possessive pronouns, typically in the context of describing something as belonging to oneself, i.e., ""my"", ""your"", or other forms.","
+
+possessive or object pronouns (used to refer to a previously mentioned noun or noun phrase) typically used to indicate ownership or relation.","
+
+prepositional phrases and determiners, but more specifically, it's finding words that follow ""of"" or indicating possession.","
+
+possessive pronouns or determiners.","
+
+definite or possessive pronouns."
+12,million,numbers greater than one million and nothing else,"
+
+large numbers, specifically dollar figures.","
+
+numbers ending in specific patterns (specifically, numbers ending in '00' or '000').","
+
+numbers with three or more digits composed of commas as thousands separators.","
+
+numbers.","
+
+numbers with three digits."
+13,people,numbers if and only if they refer to a number of people,"
+
+numbers.","
+
+specific numbers representing quantities.","
+
+words that refer to quantities, specifically numbers used as noun adjuncts.","
+
+specific numbers or quantities.","
+
+numerical values."
+14,python,"the character ""<"" if it occurs in the context of programming but not HTML or math","
+
+symbols or characters `<` (less than and greater than) that are less than a certain value.","
+
+left angle brackets or less-than signs in syntax, code, or mathematical expressions.","
+
+operators used for comparisons less than.","
+
+tokens that begin a new concept or are the first part of a comparison/conditional operator.","
+
+characters that appear before comparators in inequalities."
+15,html,"the character ""<"" if it occurs in the context of HTML but not programming or math","
+
+words or phrases structurally similar to HTML, CSS, or code snippets.","
+
+special characters commonly seen in source code, such as angle brackets `<`, square brackets `]`, and parentheses `(`, `)`.","
+
+relatively simple conditional or loop control statements written in various programming languages or contexts.","
+
+HTML, XML, and other markup language components.","
+
+HTML/XML tags."
+16,int,integer variables in C programs,"
+
+C or C++ code involving variable names and the variable name 'a'.","
+
+programming variables, likely to detect and analyze variable usage patterns.","
+
+C programming language syntax and keywords, such as variable declarations, control structures, and function calls.","
+
+tokens that are variable names in programming contexts.","
+
+tokens related to variable names in computer programming."
+17,death,phrases in a passage that indicate a character has died,"
+
+words associated with death or dying.","
+
+phrases related to death or dying, and words associated with the end of a life or a significant event.","
+
+phrases related to death or a terminal outcome.","
+
+phrases indicating the end of life, such as death, demise, or conclusion. Additionally, neuron 4 is also activated by similar phrases or words with related meanings when not explicitly phrased.","
+
+words related to death or the end of life, particularly in a permanent or fatal sense, with a strong correlation to words indicating cessation or conclusion."
+18,motivation,phrases indicating a character's motivation,"
+
+text segments that describe people taking action to pursue their goals or dreams. More specifically, this neuron appears to be interested in phrases that indicate someone is striving to improve their lives or make a positive change.","
+
+phrases related to goals or aspirations.","
+
+words indicating motivation or driving factors.","
+
+sentences that express internal states or emotions such as desire, courage, determination, or fantasies before an action is taken.","
+
+phrases indicating a motive or reason for an action, often in a context where the speaker/actor is driven to achieve a goal or accomplish something."
